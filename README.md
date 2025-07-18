@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MAanas078/Portfolio-A/main/avm.png" alt="Anas Logo" width="full"/>
 </p>
----
+
 <h1 align="center">🚀 Welcome to My 3D Portfolio</h1>
 
 <p align="center">Because boring portfolios are so 2020 👀</p>
@@ -29,8 +29,6 @@
 ---
 
 ## ✨ Key Features (Packaged in Cards)
-
-<div align="center">
 
 <table>
   <tr>
@@ -92,12 +90,6 @@ npm run dev
 
 # 🧃 Fun Fact (because why not?)
 “This README took longer to write than the actual portfolio. But hey, it has jokes — so it was worth it.”
-
----
-
-- Add shields.io badges (like stars, forks, license)
-- Add GIF of your portfolio in action
-- Add GitHub stats or contributions graph
 
 ---
 
