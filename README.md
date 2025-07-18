@@ -1,7 +1,7 @@
 # Project 3D - Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MAanas078/Portfolio-A/main/avm.png" alt="Anas Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/MAanas078/Portfolio-A/main/avm.png" alt="Anas Logo" width="full"/>
 </p>
 
 
