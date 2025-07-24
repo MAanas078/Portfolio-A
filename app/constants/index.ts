@@ -108,7 +108,7 @@ const experiences = [
 		iconBg: "#E6DEDD",
 		date: "1-July-2024 - 27-July-2024",
 		points: [
-			"eveloped a web app to manage and track daily wage records for laborers, enhancing payroll transparency and efficiency.",
+			"Developed a web app to manage and track daily wage records for laborers, enhancing payroll transparency and efficiency.",
 			"Integrated CRUD functionalities with secure authentication to enable authorized access and real- time updates.",
 			"Utilized technologies like React.js, Node.js, and MongoDB to build a scalable and user - friendly interface.",
 			"Reduced manual errors and streamlined wage calculation processes for on - site supervisors.",
